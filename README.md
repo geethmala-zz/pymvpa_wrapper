@@ -1,7 +1,5 @@
-pymvpa
-======
-
 Wrapper tool for PyMVPA
+========================
 
 Software download:
 1) Follow the examples in the "manual" folder.
